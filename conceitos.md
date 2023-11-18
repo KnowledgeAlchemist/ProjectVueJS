@@ -69,3 +69,24 @@ E TBM TRAZ UMA NOVA FORMA DE ESCREVER CÓDIGO
 
 
 CRIAÇÃO DE COMPONENTES DE LAÇOS E FUNCIONAIS FEITOS NO VUEJS É BEM DIFERENTE DA FORMA QUE SE É FEITA NO REACT
+
+
+
+AGORA CRIANDO UM PROJETO ENTENDENDO CONCEITOS
+
+
+SFC 
+
+Single file component
+
+Os componentes são savlso em arquivos .vue
+
+Um SFC consiste em três blocos script, template E style.
+
+
+----------
+
+
+Programação funcional
+
+nossa variável deixou de ser primitiva e se tornou uma referência
