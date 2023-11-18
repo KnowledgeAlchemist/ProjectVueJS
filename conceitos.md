@@ -90,3 +90,7 @@ Um SFC consiste em três blocos script, template E style.
 Programação funcional
 
 nossa variável deixou de ser primitiva e se tornou uma referência
+
+o vue redenriza apenas o código que foi mudado
+
+por isso que ele é mais performático
